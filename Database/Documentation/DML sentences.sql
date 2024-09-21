@@ -54,3 +54,7 @@ INNER JOIN [dbo].[Items] i ON p.PersonID = i.PersonID
 -- Left Joins
 SELECT p.Name, i.Completed FROM [dbo].[Person] p
 LEFT JOIN [dbo].[Items] i ON p.PersonID = i.PersonID
+
+-- Tipos de indexes
+--   Index Cluster -> Primary Key
+--   Non Cluster Index --> Indices adicionales
