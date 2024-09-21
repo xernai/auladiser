@@ -29,3 +29,28 @@ WHERE PersonID = 3
 DELETE FROM [dbo].[Person] 
 WHERE PersonID = 6
 
+/*
+	Joins:
+	1. Inner join
+	2. Left join
+	
+	Alias de una tabla: nombre virtual o en memoria
+*/
+
+-- INNER Joins
+SELECT * FROM [dbo].[Items] i 
+
+SELECT * FROM [dbo].[Person] p
+
+SELECT p.Name, i.Completed FROM [dbo].[Items] i 
+INNER JOIN [dbo].[Person] p ON i.PersonID = p.PersonID
+
+SELECT * FROM [dbo].[Person] p
+SELECT * FROM [dbo].[Items] i 
+
+SELECT p.Name, i.Completed FROM [dbo].[Person] p
+INNER JOIN [dbo].[Items] i ON p.PersonID = i.PersonID
+
+-- Left Joins
+SELECT p.Name, i.Completed FROM [dbo].[Person] p
+LEFT JOIN [dbo].[Items] i ON p.PersonID = i.PersonID
