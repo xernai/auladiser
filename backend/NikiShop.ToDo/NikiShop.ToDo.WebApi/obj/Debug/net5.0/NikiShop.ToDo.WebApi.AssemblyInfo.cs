@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NikiShop.ToDo.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5676e89f237f74a7502d13230acca0d959d85691")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3596eedb578534a4c86110e82936f21193df87f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("NikiShop.ToDo.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NikiShop.ToDo.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
