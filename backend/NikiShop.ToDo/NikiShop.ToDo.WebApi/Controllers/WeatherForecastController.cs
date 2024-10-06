@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using NikiShop.ToDo.WebApi.Context;
+using NikiShop.ToDo.WebApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,10 +19,12 @@ namespace NikiShop.ToDo.WebApi.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        private readonly AppDbContext _context;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, AppDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         [HttpGet]
@@ -34,6 +38,15 @@ namespace NikiShop.ToDo.WebApi.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        [HttpGet]
+        [Route("[action]")]
+        public ActionResult<IEnumerable<ToDoList>> GetAllToDoList()
+        {
+            // TODO: agregar el DbSet en el AppDbContext
+            var todoList = _context.ToDoList.ToList();
+            return Ok(todoList);
         }
     }
 }
