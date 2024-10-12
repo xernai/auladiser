@@ -21,7 +21,8 @@ namespace NikiShop.ToDo.WebApi.Controllers
         private readonly ILogger<WeatherForecastController> _logger;
         private readonly AppDbContext _context;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, AppDbContext context)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger,
+            AppDbContext context)
         {
             _logger = logger;
             _context = context;

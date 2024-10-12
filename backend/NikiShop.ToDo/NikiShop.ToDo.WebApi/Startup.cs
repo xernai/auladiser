@@ -28,7 +28,7 @@ namespace NikiShop.ToDo.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = Configuration.GetConnectionString("AuladiserDB");
+            var connection = Configuration.GetConnectionString("AzureDB");
 
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connection));
             services.AddControllers();
