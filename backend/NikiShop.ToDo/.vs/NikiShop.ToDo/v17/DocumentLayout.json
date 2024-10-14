@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCBA9788-7122-4FC7-89BA-341B89EFC01A}|..\\..\\frontend\\NikiShop.ToDo.MvcClient\\NikiShop.ToDo.MvcClient.csproj|c:\\20241012\\auladiser\\frontend\\nikishop.todo.mvcclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\nikishop.todo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\nikishop.todo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBA9788-7122-4FC7-89BA-341B89EFC01A}|..\\..\\frontend\\NikiShop.ToDo.MvcClient\\NikiShop.ToDo.MvcClient.csproj|c:\\20241012\\auladiser\\frontend\\nikishop.todo.mvcclient\\views\\home\\todo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBA9788-7122-4FC7-89BA-341B89EFC01A}|..\\..\\frontend\\NikiShop.ToDo.MvcClient\\NikiShop.ToDo.MvcClient.csproj|c:\\20241012\\auladiser\\frontend\\nikishop.todo.mvcclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCBA9788-7122-4FC7-89BA-341B89EFC01A}|..\\..\\frontend\\NikiShop.ToDo.MvcClient\\NikiShop.ToDo.MvcClient.csproj|c:\\20241012\\auladiser\\frontend\\nikishop.todo.mvcclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,59 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-12T16:10:54.137Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ToDoList.cs",
-              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Models\\ToDoList.cs",
-              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Models\\ToDoList.cs",
-              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Models\\ToDoList.cs",
-              "RelativeToolTip": "NikiShop.ToDo.WebApi\\Models\\ToDoList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T16:00:47.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:51:45.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "NikiShop.ToDo.WebApi\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:50:07.047Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -94,24 +54,96 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\appsettings.json",
-              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json",
-              "RelativeToolTip": "NikiShop.ToDo.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json*",
+              "RelativeToolTip": "NikiShop.ToDo.WebApi\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-12T15:47:47.475Z",
+              "WhenOpened": "2024-10-14T00:55:22.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Startup.cs",
-              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Startup.cs",
-              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Startup.cs",
-              "RelativeToolTip": "NikiShop.ToDo.WebApi\\Startup.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwB4AAABHAAAAAAAAAA==",
+              "Title": "NikiShop.ToDo.WebApi.csproj",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
+              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
+              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
+              "RelativeToolTip": "NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T00:50:43.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwC0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:47:23.75Z",
+              "WhenOpened": "2024-10-12T19:03:52.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\appsettings.json",
+              "ToolTip": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\appsettings.json",
+              "RelativeToolTip": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T19:02:36.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T19:01:39.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBTwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T18:58:16.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDo.cshtml",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Home\\ToDo.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Home\\ToDo.cshtml",
+              "ToolTip": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Home\\ToDo.cshtml",
+              "RelativeToolTip": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Home\\ToDo.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T18:55:41.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:39:09.927Z",
               "EditorCaption": ""
             }
           ]
