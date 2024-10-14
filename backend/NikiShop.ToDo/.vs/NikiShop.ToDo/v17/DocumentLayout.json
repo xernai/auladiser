@@ -54,8 +54,8 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\appsettings.json",
-              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json*",
-              "RelativeToolTip": "NikiShop.ToDo.WebApi\\appsettings.json*",
+              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json",
+              "RelativeToolTip": "NikiShop.ToDo.WebApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-14T00:55:22.943Z",
@@ -143,8 +143,7 @@
               "RelativeToolTip": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAcwCcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T18:39:09.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T18:39:09.927Z"
             }
           ]
         }

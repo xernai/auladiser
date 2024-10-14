@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|c:\\20241012\\auladiser\\backend\\nikishop.todo\\nikishop.todo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C01FBA7-8E5F-46BB-B2B4-AF77E75BEC27}|NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj|solutionrelative:nikishop.todo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCBA9788-7122-4FC7-89BA-341B89EFC01A}|..\\..\\frontend\\NikiShop.ToDo.MvcClient\\NikiShop.ToDo.MvcClient.csproj|c:\\20241012\\auladiser\\frontend\\nikishop.todo.mvcclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +50,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NikiShop.ToDo.WebApi",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\appsettings.json",
+              "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json*",
+              "RelativeToolTip": "NikiShop.ToDo.WebApi\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T00:55:22.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NikiShop.ToDo.WebApi.csproj",
               "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
               "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
               "ToolTip": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
               "RelativeToolTip": "NikiShop.ToDo.WebApi\\NikiShop.ToDo.WebApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-14T00:50:43.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T00:50:43.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Controllers\\WeatherForecastController.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\appsettings.json",
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\20241012\\auladiser\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "NikiShop.ToDo.WebApi\\Properties\\launchSettings.json",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Shared\\_Layout.cshtml",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ToDo.cshtml",
               "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Home\\ToDo.cshtml",
               "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Views\\Home\\ToDo.cshtml",
@@ -119,15 +135,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\20241012\\auladiser\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
               "RelativeToolTip": "..\\..\\frontend\\NikiShop.ToDo.MvcClient\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwCcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T18:39:09.927Z"
+              "WhenOpened": "2024-10-12T18:39:09.927Z",
+              "EditorCaption": ""
             }
           ]
         }
