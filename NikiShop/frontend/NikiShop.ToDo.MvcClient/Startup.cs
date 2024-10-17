@@ -7,6 +7,8 @@ using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http.Headers;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace NikiShop.ToDo.MvcClient
@@ -23,6 +25,16 @@ namespace NikiShop.ToDo.MvcClient
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // 2.
+            HttpClient client = new HttpClient();
+            string baseUrl = Configuration.GetValue<string>("AppSettings:BaseUrlLocal");
+            client.BaseAddress = new Uri(baseUrl);
+
+            var contentType = new MediaTypeWithQualityHeaderValue("application/json");
+            client.DefaultRequestHeaders.Accept.Add(contentType);
+
+            services.AddSingleton<HttpClient>(client);
+
             services.AddControllersWithViews();
         }
 
