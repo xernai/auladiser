@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\backend",
-    "\\backend\\NikiShop.ToDo",
-    "\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi"
+    "\\NikiShop",
+    "\\NikiShop\\frontend",
+    "\\NikiShop\\frontend\\Documentation"
   ],
-  "SelectedNode": "\\backend\\NikiShop.ToDo\\NikiShop.ToDo.WebApi\\appsettings.json",
+  "SelectedNode": "\\NikiShop\\frontend\\Documentation\\Pasos para invocar API.txt",
   "PreviewInSolutionExplorer": false
 }
