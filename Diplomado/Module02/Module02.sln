@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaCsharp", "HolaCsharp\HolaCsharp.csproj", "{B18D04CB-7F24-4900-8582-EB188AE954E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{87EE0068-CEAA-4F02-A0DB-5FC9665CF8BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B18D04CB-7F24-4900-8582-EB188AE954E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B18D04CB-7F24-4900-8582-EB188AE954E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B18D04CB-7F24-4900-8582-EB188AE954E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EE0068-CEAA-4F02-A0DB-5FC9665CF8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EE0068-CEAA-4F02-A0DB-5FC9665CF8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EE0068-CEAA-4F02-A0DB-5FC9665CF8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EE0068-CEAA-4F02-A0DB-5FC9665CF8BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
