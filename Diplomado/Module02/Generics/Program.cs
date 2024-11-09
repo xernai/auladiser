@@ -22,6 +22,7 @@ namespace Generics
 
     class Arithmetic<T> where T: struct
     {
+        public T Value1 { get; set; }
         //public T Sum(T x, T y)
         //{
         //    var result = x + y;
@@ -59,6 +60,7 @@ namespace Generics
 
             // Generics
             var arithmetic = new Arithmetic<int>();
+            arithmetic.Value1 = 'Ñ';
 
             // Generics usando enteros
             var numberIntGeneric_1 = 1;
