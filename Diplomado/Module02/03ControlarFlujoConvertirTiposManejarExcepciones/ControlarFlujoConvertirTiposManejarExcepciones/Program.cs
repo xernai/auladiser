@@ -12,13 +12,23 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
             Console.WriteLine("Teclea el valor y al final da Enter.");
 
             input = Console.ReadLine();
-            // age = Convert.ToInt32(input);
+            //age = Convert.ToInt32(input);
 
             // var value = Console.ReadLine();
 
             // Error next sentences
             // age = (int)value;
-            // age = (int)"45";
+            // age = (int)"45"
+
+            // Uso de casting para convertir un tipo de dato a otro siendo ambos del tipo de dato por valor (value)
+            /*
+            age = (int)edad;
+
+            age = 300;
+            byte edad1 = (byte)age;
+
+            Console.WriteLine($"Valor de edad: {edad1}");
+            */
 
             /*
             try
@@ -32,7 +42,6 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
             }
             */
 
-
             try
             {
                 age = Int32.Parse(input);
@@ -42,12 +51,14 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
                 Console.WriteLine($"Unable to parse '{input}'");
                 return;
             }
-            finally 
+            finally
             {
-                Console.WriteLine("Fin de Edad");
+                Console.WriteLine("Fin del proceso");
             }
 
-            if (age > 17)
+            
+            /*
+            if (age > 17 && age < 65)
             {
                 Console.WriteLine("Eres candidato a una tarjeta de crédito");
             }
@@ -62,9 +73,11 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
                 Console.WriteLine("Pensión Adultos Mayores");
                 PagosBimestrales();
             }
+            */
+            
 
             /*
-            if (age > 17)
+            if (age > 17 && age < 65)
             {
                 Console.WriteLine("Eres candidato a una tarjeta de crédito");
             }
@@ -83,11 +96,10 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
                     }
                 }
             }
-
             */
 
-            /*
-            if (age > 17)
+         
+            if (age > 17 && age < 65)
             {
                 Console.WriteLine("Eres candidato a una tarjeta de crédito");
             }
@@ -100,8 +112,9 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
                 Console.WriteLine("Pensión Adultos Mayores");
                 PagosBimestrales();
             }
-            */
+            
         }
+        
         /*
         private static void PagosBimestrales()
         {
@@ -110,10 +123,10 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
                 Console.WriteLine($"Bimestre: {i + 1} => 3000");
             }
         }
-
         */
+        
 
-        /*
+        
         private static void PagosBimestrales()
         {
             int i = 0;
@@ -123,16 +136,20 @@ namespace ControlarFlujoConvertirTiposManejarExcepciones
                 i++;
             }
         }
-        */
+        
+
+        /*
         private static void PagosBimestrales()
         {
             int i = 0;
             do
             {
                 Console.WriteLine($"Bimestre: {i + 1} => 3000");
-                i++;
+                i++;  // i = i + 1;
             }
             while (i < 6);
         }
+
+        */
     }
 }

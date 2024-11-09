@@ -39,6 +39,15 @@ namespace LinqToObjects
     {
         public static void Main()
         {
+            List<int> values = new List<int>();
+            values.Add(1);
+            values.Add(2);
+
+            // Valor    | 1 | 2
+            // Position   0 | 1 
+
+            // Valor    | { Id = 1, Active = true, Name = "Andres"}   | { Id = 2, Active = true, Name = "Arturo"}
+            // Position                     0                                            1
             var users = new List<User>(){
                         new User(){ Id = 1, Active = true, Name = "Andres"},
                         new User(){ Id = 2, Active = true, Name = "Arturo"},
@@ -60,6 +69,9 @@ namespace LinqToObjects
                             new Bill(){ Id = 10, UserId = 3, Amount = 10 }
             };
 
+            // LINQ: Language Integrated Query
+            // Query Syntax
+            // Lazy loading, eager loading
             var usersActive = (from u in users
                                join b in bills
                                on u.Id equals b.UserId
