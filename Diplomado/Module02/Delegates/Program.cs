@@ -9,7 +9,7 @@ namespace Delegates
     // 2002 crea .NET donde VB si es 100% orientado a OOP
     // Los eventos son una especie de delegates
 
-    delegate string Salute(string name) ; // Signature del metodos o metodos que cumplan con el tipo de parametro y el tipo de retorno(return)
+    delegate string Salute(string name); // Signature del metodos o metodos que cumplan con el tipo de parametro y el tipo de retorno(return)
     delegate int Sum(int x, int y); // Signature del metodos o metodos que cumplan con el tipo de parametro y el tipo de retorno(return)
     class Program
     {
@@ -18,7 +18,7 @@ namespace Delegates
             var delegateSalute = new Salute(PrintName); // cola: FIFO
             // 1. PrintName
             
-            delegateSalute += Saludar;
+            delegateSalute = delegateSalute + Saludar;
             // 1. PrintName
             // 2. Saludar
 
