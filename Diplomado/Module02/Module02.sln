@@ -59,6 +59,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extension Methods", "Extens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Async Programming", "Async Programming", "{C5CD4FC2-B111-46D8-A392-A6B0E320E34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncProgramming\AsyncProgramming.csproj", "{16176795-0F64-4789-AA17-C71032C86311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +153,10 @@ Global
 		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16176795-0F64-4789-AA17-C71032C86311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16176795-0F64-4789-AA17-C71032C86311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16176795-0F64-4789-AA17-C71032C86311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16176795-0F64-4789-AA17-C71032C86311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,6 +169,7 @@ Global
 		{1106A3D5-D8D0-4420-A7CE-524F63BC2449} = {7D6C0920-E52A-4795-AC9F-86DE08549674}
 		{64207928-E717-4F64-BF8F-44F523A29B37} = {6259A864-D7B4-4525-8C99-2E3A2C615504}
 		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C} = {6D9722D1-FCDE-4358-870C-DE88268B4248}
+		{16176795-0F64-4789-AA17-C71032C86311} = {C5CD4FC2-B111-46D8-A392-A6B0E320E34E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A4F5AFCB-80C5-48CC-977B-D921BB95BD90}
