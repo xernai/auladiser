@@ -29,17 +29,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics02", "Generics02\Ge
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Generics", "02. Generics", "{10A60CAB-16C8-45C8-82C7-AF1E9F10B5D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassAndConstructors", "StaticClassAndConstructors\StaticClassAndConstructors.csproj", "{CDBDC129-013C-4338-AE00-895CC64A79E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClassAndConstructors", "StaticClassAndConstructors\StaticClassAndConstructors.csproj", "{CDBDC129-013C-4338-AE00-895CC64A79E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Data Types", "01. Data Types", "{648DC776-DC31-4BDC-B298-71D514AC7CC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsExample", "EventsExample\EventsExample.csproj", "{81E7A889-8B7C-41E8-ACBD-BFFF90A2A291}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsExample", "EventsExample\EventsExample.csproj", "{81E7A889-8B7C-41E8-ACBD-BFFF90A2A291}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Events", "01. Events", "{2D548321-67A8-4647-A837-022CAE48C12B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandlerExample", "EventHandlerExample\EventHandlerExample.csproj", "{7E9566FB-0333-4246-807E-137FFCD0C210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHandlerExample", "EventHandlerExample\EventHandlerExample.csproj", "{7E9566FB-0333-4246-807E-137FFCD0C210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandlerPassingValuesExample", "EventHandlerPassingValuesExample\EventHandlerPassingValuesExample.csproj", "{1106A3D5-D8D0-4420-A7CE-524F63BC2449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHandlerPassingValuesExample", "EventHandlerPassingValuesExample\EventHandlerPassingValuesExample.csproj", "{1106A3D5-D8D0-4420-A7CE-524F63BC2449}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsExample", "WindowsFormsExample\WindowsFormsExample.csproj", "{58D95089-51F2-4B03-A348-DA53D6A68E04}"
 EndProject
@@ -47,9 +47,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Events", "02. Events", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Events", "03. Events", "{7D6C0920-E52A-4795-AC9F-86DE08549674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "ConsoleApp1\LambdaExpressions.csproj", "{7334715C-AF4A-40A7-A6D0-2D50E94E9B3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "ConsoleApp1\LambdaExpressions.csproj", "{7334715C-AF4A-40A7-A6D0-2D50E94E9B3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysExample", "ArraysExample\ArraysExample.csproj", "{A40D2765-F724-4DEA-8F4C-7491FBA2AAC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysExample", "ArraysExample\ArraysExample.csproj", "{A40D2765-F724-4DEA-8F4C-7491FBA2AAC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Built-in delegates", "Built-in delegates", "{6259A864-D7B4-4525-8C99-2E3A2C615504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltinDelegates", "BuiltinDelegates\BuiltinDelegates.csproj", "{64207928-E717-4F64-BF8F-44F523A29B37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extension Methods", "Extension Methods", "{6D9722D1-FCDE-4358-870C-DE88268B4248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,6 +141,14 @@ Global
 		{A40D2765-F724-4DEA-8F4C-7491FBA2AAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40D2765-F724-4DEA-8F4C-7491FBA2AAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40D2765-F724-4DEA-8F4C-7491FBA2AAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64207928-E717-4F64-BF8F-44F523A29B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64207928-E717-4F64-BF8F-44F523A29B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64207928-E717-4F64-BF8F-44F523A29B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64207928-E717-4F64-BF8F-44F523A29B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +159,8 @@ Global
 		{81E7A889-8B7C-41E8-ACBD-BFFF90A2A291} = {2D548321-67A8-4647-A837-022CAE48C12B}
 		{7E9566FB-0333-4246-807E-137FFCD0C210} = {812190EE-EF80-43A6-A242-D2EBF59CF3BE}
 		{1106A3D5-D8D0-4420-A7CE-524F63BC2449} = {7D6C0920-E52A-4795-AC9F-86DE08549674}
+		{64207928-E717-4F64-BF8F-44F523A29B37} = {6259A864-D7B4-4525-8C99-2E3A2C615504}
+		{43E37F31-16B3-40FA-A2D5-D4ADE8CE4F6C} = {6D9722D1-FCDE-4358-870C-DE88268B4248}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A4F5AFCB-80C5-48CC-977B-D921BB95BD90}
